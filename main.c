@@ -1,8 +1,7 @@
 /**
- *
- *
- *
- **/
+ * Author : Daniyal Bari Bhatti
+ * Erstellt am 18.01.2021
+ * */
 
 #include <stdio.h>
 #include <stdlib.h>
