@@ -5,19 +5,11 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <lib/timelib.h>
 
-/**
- *
- *
- **/
-int day_of_the_year(int day, int month, int year)
-{
-
-    return 0;
-}
 
 int main()
 {
-    printf("Tag des Jahres: %i\n", day_of_the_year(31, 12, 2018));
+    day_of_the_year(1,1,1);
     return 0;
 }
